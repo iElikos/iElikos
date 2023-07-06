@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao meu perfil 😁
 
  <div>
    <a href="https://github.com/iElikos">
@@ -13,7 +13,8 @@
 </div>
  
  <br>
- 
+
+ ### Para entrar em contato comigo:
  
 <div> 
   <a href = "elieltonnm22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
